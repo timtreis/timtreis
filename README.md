@@ -3,7 +3,7 @@
 Professional
 
 [![LinkedIn](https://img.shields.io/badge/timtreis-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/timtreis/)
-[![Scholar](https://img.shields.io/badge/Tim_Treis-Scholar-1857B6?style=flat&logo=Semantic+Scholar&logoColor=FFFFFF)](https://orcid.org/0000-0002-9686-4799)
+[![Scholar](https://img.shields.io/badge/Tim_Treis-Scholar-1857B6?style=flat&logo=Semantic+Scholar&logoColor=FFFFFF)](https://scholar.google.com/citations?user=BjmxtEsAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/0000--0002--9686--4799-ORCID-A6CE39?style=flat&logo=ORCID&logoColor=A6CE39)](https://orcid.org/0000-0002-9686-4799)
 
 Fun Fun Fun
