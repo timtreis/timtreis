@@ -11,7 +11,6 @@ Fun Fun Fun
 [![Twitter](https://img.shields.io/badge/TreisTim-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/TreisTim)
 [![Thingiverse](https://img.shields.io/badge/ttreis-Thingiverse-248BFB?style=flat&logo=Thingiverse&logoColor=FFFFFF)](https://www.thingiverse.com/ttreis/)
 [![Website](https://img.shields.io/badge/timtreis.com-Website-eb2121?style=flat&logo=Artifact+Hub&logoColor=eb2121)](https://www.timtreis.com/)
-[![Etsy](https://img.shields.io/badge/TreisLabs-Etsy-f1641e?style=flat&logo=Etsy&logoColor=f1641e)](https://www.etsy.com/shop/TreisLabs)
 
 
 <!-- Dark Mode -->
