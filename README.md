@@ -19,3 +19,4 @@ Fun Fun Fun
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=timtreis&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000&hide_rank=false#gh-dark-mode-only" alt="Tim's Github stats" />
 </a>
 </div>
+<small>Also counting projects hosted outside my account.</small>
